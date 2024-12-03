@@ -1,0 +1,46 @@
+{
+    "footermenus":[
+        {
+            "id":"001",
+            "Product":[
+                "Overview","Features","Solutions","Tutorials","Pricing","Releases"   
+            ]
+    
+        },
+        {
+            "id":"002",
+            "Company":[
+                "About us ","Careers","Press","News","Media Kit","Contact"   
+            ]
+    
+        },
+        {
+            "id":"003",
+            "Resources":[
+             "Blog","Newssletter","Events","Help Centre","Tutuorials","Support"  
+            ]
+    
+        },
+        {
+            "id":"004",
+            "Use cases":[
+                "Startups","Enterprise","Government","Saas Centre","Marketplaces","Ecommerce"   
+            ]
+    
+        },
+        {
+            "id":"005",
+            "Social":[
+                "Twitter","LinkedIn","Facebook","Github","AngelList","Dribble"   
+            ]
+    
+        },
+        {
+            "id":"006",
+            "Legal":[
+                "Terms","Privacy","Cookies","Licenses","Settings","Contact"   
+            ]
+    
+        }
+    ]
+}
