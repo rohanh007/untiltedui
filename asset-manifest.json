@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/untiltedui/static/css/main.1e34fdf3.css",
-    "main.js": "/untiltedui/static/js/main.a2a071aa.js",
+    "main.css": "/untiltedui/static/css/main.e223b4fc.css",
+    "main.js": "/untiltedui/static/js/main.e7ea8143.js",
     "static/js/453.4e3cfd07.chunk.js": "/untiltedui/static/js/453.4e3cfd07.chunk.js",
     "static/media/herohomepagebig.png": "/untiltedui/static/media/herohomepagebig.ed26ca1fbd3542f3c3af.png",
+    "static/media/blogs_photo_1.png": "/untiltedui/static/media/blogs_photo_1.cca7569317ad2ee6fe93.png",
+    "static/media/blogs_photo_2.png": "/untiltedui/static/media/blogs_photo_2.2fe39e46176057539926.png",
     "static/media/featuresbig_img.png": "/untiltedui/static/media/featuresbig_img.7478e375bd2e4058ba39.png",
+    "static/media/blogs_photo_3.png": "/untiltedui/static/media/blogs_photo_3.1816a142ad7532f8f582.png",
+    "static/media/comment_blog_1.png": "/untiltedui/static/media/comment_blog_1.3d82056730cb619a3165.png",
     "static/media/testimonialperson.png": "/untiltedui/static/media/testimonialperson.f5fcc2e17230522bf2b1.png",
     "static/media/iPhone_12_Pro_mockup.png": "/untiltedui/static/media/iPhone_12_Pro_mockup.0550468a040cede7bf23.png",
     "static/media/Avatar_group.png": "/untiltedui/static/media/Avatar_group.314a6b1cd6f46a430a42.png",
     "static/media/logo.svg": "/untiltedui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/untiltedui/index.html",
-    "main.1e34fdf3.css.map": "/untiltedui/static/css/main.1e34fdf3.css.map",
-    "main.a2a071aa.js.map": "/untiltedui/static/js/main.a2a071aa.js.map",
+    "main.e223b4fc.css.map": "/untiltedui/static/css/main.e223b4fc.css.map",
+    "main.e7ea8143.js.map": "/untiltedui/static/js/main.e7ea8143.js.map",
     "453.4e3cfd07.chunk.js.map": "/untiltedui/static/js/453.4e3cfd07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e34fdf3.css",
-    "static/js/main.a2a071aa.js"
+    "static/css/main.e223b4fc.css",
+    "static/js/main.e7ea8143.js"
   ]
 }
