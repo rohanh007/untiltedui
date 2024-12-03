@@ -10,7 +10,7 @@ import Footer from './Component/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
         <Home/>
         <Testtimonial/>
         <Advancedfeatures/>

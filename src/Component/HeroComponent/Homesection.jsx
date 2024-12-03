@@ -34,7 +34,7 @@ const Homesection = () => {
                                 Powerful, self-serve product and growth analytics to help you convert, engage,<br className="hidden sm:flex" />and retain more users. Trusted by over 4,000 startups.
                             </div>
                         </div>
-                        <div className="inline-flex mt-3 justify-center sm:flex-row flex-col sm:gap-3 gap-2 min-w-[277px] min-h-[60px]">
+                        <div className="flex mt-3 justify-center sm:flex-row flex-col sm:gap-3 gap-2 min-w-[277px] min-h-[60px]">
                             <div className="inline-flex justify-center items-center cursor-pointer order-2 sm:order-1 min-w-[143px] min-h-[60px] rounded-[8px] border border-[#D0D5DD] py-[10px] sm:py-[16px] px-[28px] gap-[12px] bg-white">
                                 <span><FaRegCirclePlay /></span>
                                 <p className="font-semibold text-[18px] leading-[28px] text-[#344054]">Demo</p>
