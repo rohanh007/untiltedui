@@ -1,5 +1,6 @@
 import { FaChevronDown } from "react-icons/fa";
 import logo from "../../Static/images/Logo.png";
+import user from "../../Static/images/user.png";
 import { IoReorderThreeOutline } from "react-icons/io5";
 import { useState } from "react";
 const Navbar = () => {
@@ -23,7 +24,7 @@ const Navbar = () => {
                         </div>
                     </div>
                     <div className=" max-w-[50%] inline-flex w-[40px] h-[40px]">
-                        <img className="w-[40px] h-[40px] rounded-[200px]" src="https://s3-alpha-sig.figma.com/img/6c1f/e88a/3b9e8dfddf4a065581b04df49638ca9c?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lW7zkE1k7NR-QogEy8sYiAjqBvXRMBpbkmBH0n9P4EnmT4NfaEuXgfpvSgeDAam6jWPkaEwf8-yPWvfxgaCgkR2hQ8Ls5P-uHbbmecqS13SCHP3eodmZwDleY4p1lY6Gc4oisH1EaTcHgp5Ud92EP-JMK5rmZZTDPo7Yiy76EWNudFWiD3EmmX3iK~07LOIaqJjY4kIQHgwdxF0h6BfY1O3mJbNzK5-x199z7inKXWMb4GvnunUwvKIrFb5vBBgIuCVkmal2ywkkHVr5padoMk-A8zmD-AE7iiNDPEznYq2oWxWAymx-lk5EHprO-5gbC-npmdOyjoMZfrxdidG~sg__" />
+                        <img className="w-[40px] h-[40px] rounded-[200px]" src={user} />
                     </div>
 
                 </div>
